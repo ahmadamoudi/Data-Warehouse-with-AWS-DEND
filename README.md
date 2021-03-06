@@ -74,4 +74,4 @@ The steps, including creating a cluster, create and load tables, testing, were p
 * `sql_queries.py`
 * `create_tables.py`  (*no modification is needed*)
 * `etl.py` (*no modification is needed*)
-* `sample_dwh.cfg` is a copy of `dwh.cfg` without  **key and secret**, becuase they ought NOT to be accessible to the public
+* `dwh.cfg` it contains your key and secret
