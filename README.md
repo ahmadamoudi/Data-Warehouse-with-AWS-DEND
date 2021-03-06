@@ -1,4 +1,4 @@
-# DataWarehouse with AWS
+# DataWarehouse with AWS DEND
 
 In this project, data is stored in S3 to preparation tables in Redshift and SQL statements will be executed to create the analysis tables from these preparation tables.
 
