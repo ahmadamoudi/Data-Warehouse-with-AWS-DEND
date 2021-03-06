@@ -70,7 +70,7 @@ The steps, including creating a cluster, create and load tables, testing, were p
 
 ## Files
 
-* `etl.ipynb`
+* `IaC.ipynb` (Infrastructure as a Code)
 * `sql_queries.py`
 * `create_tables.py`  (*no modification is needed*)
 * `etl.py` (*no modification is needed*)
