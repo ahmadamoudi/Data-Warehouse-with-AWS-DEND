@@ -52,7 +52,7 @@ And below is an example of what the data in a log file, 2018-11-12-events.json, 
 
 The project is developed in a **local enviornment (MacOS)** and based on pure **Python SDK** codes. 
 
-The steps, including creating a cluster, create and load tables, testing, were pipelined in a **Jupyter notebook** [etl.ipynb](etl.ipynb)
+The steps, including creating a cluster, create and load tables, testing, were pipelined in a **Jupyter notebook** [IaC.ipynb](https://github.com/ahmadamoudi/Data-Warehouse-with-AWS-DEND/blob/master/IaC.ipynb)
 
 ## Overview of the steps
 
